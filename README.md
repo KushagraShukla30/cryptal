@@ -8,9 +8,7 @@ Cryptal is a powerful, open-source web application built with R Shiny that provi
 
 # Live Deployment
 
-Check it here: ![(https://cryptal.shinyapps.io/cryptal/)](https://cryptal.shinyapps.io/cryptal/)
-
-
+Try the app live: cryptal.shinyapps.io/cryptalCheck it here: ![(https://cryptal.shinyapps.io/cryptal/)](https://cryptal.shinyapps.io/cryptal/)
 
 
 ## Features
