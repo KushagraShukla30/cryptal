@@ -6,6 +6,11 @@
 
 Cryptal is a powerful, open-source web application built with R Shiny that provides detailed insights into cryptocurrency market data. It allows users to explore price trends, analyze fundamentals, perform technical analysis, and receive AI-powered investment suggestions.
 
+# Live Deployment
+
+Check it here: ![Link](https://cryptal.shinyapps.io/cryptal/)
+
+
 
 
 ## Features
